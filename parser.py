@@ -19,15 +19,6 @@ for i in range(0,(len(result_json))):
                     my_ip_set.add(result_json[i]['ips'][q])
     except:
         continue
-        """
-        try:
-            print(result_json[i]['urls'])
-    
-            for q in range(0,len(result_json[i]['ips'])):
-                    print(result_json[i]['ips'][q])
-        except:
-            continue
-        """
 #print(my_ip_set)
 for net in my_ip_set:
     print(net)
