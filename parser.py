@@ -10,7 +10,7 @@ for i in range(0,(len(result_json))):
     try:
         current_urls = result_json[i]['urls']
         for current_url in current_urls:
-            if(current_url.find('365' ) > -1 or current_url.find('outlook')>-1) :
+            if(current_url.find('365' ) > -1 or current_url.find('outlook')>-1 or current_url.find('teams')>-1) :
                 print(current_url)
                 for q in range(0, len(result_json[i]['ips'])):
 
