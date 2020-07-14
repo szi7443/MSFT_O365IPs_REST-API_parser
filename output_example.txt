@@ -1,4 +1,4 @@
-#example of an output of  script in parser.py ... now with IP addresses for teams (unique addresses listed after '--------------------' ...)
+C:\Users\zitta.stanislav\PycharmProjects\MSFT_O365_range_RESTAPI_parser\venv\Scripts\python.exe C:/Users/zitta.stanislav/PycharmProjects/MSFT_O365_range_RESTAPI_parser/parser.py
 outlook.office.com
 13.107.6.152/31
 13.107.18.10/31
@@ -126,25 +126,115 @@ outlook.uservoice.com
 www.outlook.com
 statics.teams.microsoft.com
 -----------------------------------
-13.107.128.0/22
-13.107.64.0/18
-52.244.160.207/32
-13.107.6.152/31
-23.103.160.0/20
-132.245.0.0/16
-40.104.0.0/15
-104.47.0.0/17
-52.100.0.0/14
-52.120.0.0/14
-52.112.0.0/14
-40.92.0.0/15
-40.107.0.0/16
-52.238.78.88/32
-13.107.18.10/31
-131.253.33.215/32
-204.79.197.215/32
-52.238.119.141/32
-52.96.0.0/14
-40.96.0.0/13
-191.234.140.0/22
-150.171.32.0/22
+
+0.
+NE_40.104.0.0/15
+40.104.0.0
+Microsoft - for office 365
+
+1.
+NE_104.47.0.0/17
+104.47.0.0
+Microsoft - for office 365
+
+2.
+NE_52.96.0.0/14
+52.96.0.0
+Microsoft - for office 365
+
+3.
+NE_150.171.32.0/22
+150.171.32.0
+Microsoft - for office 365
+
+4.
+NE_23.103.160.0/20
+23.103.160.0
+Microsoft - for office 365
+
+5.
+NE_52.100.0.0/14
+52.100.0.0
+Microsoft - for office 365
+
+6.
+NE_52.238.78.88/32
+52.238.78.88
+Microsoft - for office 365
+
+7.
+NE_13.107.6.152/31
+13.107.6.152
+Microsoft - for office 365
+
+8.
+NE_13.107.128.0/22
+13.107.128.0
+Microsoft - for office 365
+
+9.
+NE_204.79.197.215/32
+204.79.197.215
+Microsoft - for office 365
+
+10.
+NE_13.107.18.10/31
+13.107.18.10
+Microsoft - for office 365
+
+11.
+NE_40.92.0.0/15
+40.92.0.0
+Microsoft - for office 365
+
+12.
+NE_40.107.0.0/16
+40.107.0.0
+Microsoft - for office 365
+
+13.
+NE_132.245.0.0/16
+132.245.0.0
+Microsoft - for office 365
+
+14.
+NE_52.244.160.207/32
+52.244.160.207
+Microsoft - for office 365
+
+15.
+NE_52.238.119.141/32
+52.238.119.141
+Microsoft - for office 365
+
+16.
+NE_191.234.140.0/22
+191.234.140.0
+Microsoft - for office 365
+
+17.
+NE_40.96.0.0/13
+40.96.0.0
+Microsoft - for office 365
+
+18.
+NE_131.253.33.215/32
+131.253.33.215
+Microsoft - for office 365
+
+19.
+NE_13.107.64.0/18
+13.107.64.0
+Microsoft - for office 365
+
+20.
+NE_52.112.0.0/14
+52.112.0.0
+Microsoft - for office 365
+
+21.
+NE_52.120.0.0/14
+52.120.0.0
+Microsoft - for office 365
+
+Process finished with exit code 0

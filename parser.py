@@ -21,5 +21,11 @@ for i in range(0,(len(result_json))):
         continue
 print('-----------------------------------')
 #print(my_ip_set)
+o = 0
 for net in my_ip_set:
-    print(net)
+    print()
+    print(f"{o}.")
+    o+=1
+    print(f"NE_{net}")
+    print(net.split('/')[0])
+    print('Microsoft - for office 365')
